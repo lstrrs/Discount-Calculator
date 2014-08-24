@@ -1,6 +1,10 @@
 test file
 
+<<<<<<< HEAD
 user x and y
+=======
+Lalo, Luis
+>>>>>>> FETCH_HEAD
 
 
 new change made line xx
